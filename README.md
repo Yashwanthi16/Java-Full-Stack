@@ -1,2 +1,2 @@
 # Java-Full-Stack-
-This repository contains practice problems based on Java.
+This repository contains my practice problems based on Java.
